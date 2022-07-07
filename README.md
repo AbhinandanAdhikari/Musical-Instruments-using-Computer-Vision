@@ -34,3 +34,5 @@
 - __Contour Detection__: Detects the position of the colored object and making a rectangle over it.
 - __Image Masking__: Image mask is created after detecting the color.
 - __Color Space Conversion__: Converts the BGR into HSV values.
+
+Hope you all liked it :heart:

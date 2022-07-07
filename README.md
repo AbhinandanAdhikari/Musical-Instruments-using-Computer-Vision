@@ -35,4 +35,15 @@
 - __Image Masking__: Image mask is created after detecting the color.
 - __Color Space Conversion__: Converts the BGR into HSV values.
 
+# Screenshots:
+
+### Initial Window after running the python file:
+![image](Screenshots/Air%20Drum.png)
+
+### When you move the object towards the instrument:
+![image](Screenshots/Air%20Drum-2.png)
+
+### For Air Piano:
+![image](Screenshots/Air%20Piano.jpg)
+
 Hope you all liked it :heart:

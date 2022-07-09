@@ -3,6 +3,7 @@
 - It helps users to virtually play musical instruments by waving their __hands while holding a coloured object__ in the air.
 - It detects the __coordinate position__ of the hand using __colour detection__ and, depending on it, presses the keyboard button and plays the respective instrument sound.
 - This project uses the concept of __Computer Vision__ and is implemented using ```Python```, ```OpenCV```, ```Numpy```, ```PyAutoGUI```.
+- [Click here to watch the Demo Video](https://youtu.be/tGG5VHqhG0E)
 
 # System Requirements:
 
